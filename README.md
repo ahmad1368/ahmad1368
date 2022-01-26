@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmad1368
 - 👀 I’m interested in C#,Html,CSS,JavaScript,Jquery,Sql,
 - 🌱 I’m currently learning KendoJS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on KSC
 - 📫 How to reach me With ahmad.salempoor@gmail.com
 
 <!---
